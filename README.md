@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-<!--
-**IceMiaoMiao/icemiaomiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Graphic on Games
+- 🌱 I’m currently learning Graphic Programming
+- 👯 I’m looking to collaborate on Machine Learning and Digital Humans
+- 🤔 I’m looking for help with Graphic Programming and Digital Humans
+- 💬 Ask me about Unity or UE
+- 📫 How to reach me: iceingmiao@gmail.com
+- 😄 Pronouns: Yangyang
+- ⚡ Fun fact: I like playing games.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Visitor Count](https://profile-counter.glitch.me/icemiaomiao/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=icemiaomiao)]( https://github.com/icemiaomiao/github-readme-stats )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icemiaomiao)]( https://github.com/Christmas/github-readme-stats )
+
+
+![](https://github-readme-stats.vercel.app/api?username=icemiaomiao)
+
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=icemiaomiao)
+
+https://img.shields.io/badge/python-3.9-orange
