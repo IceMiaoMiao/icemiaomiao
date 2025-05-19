@@ -16,6 +16,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=icemiaomiao)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=icemiaomiao)
 
 
