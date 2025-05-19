@@ -11,12 +11,11 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/icemiaomiao/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icemiaomiao)]( https://github.com/Christmas/github-readme-stats )
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icemiaomiao)]( https://github.com/Christmas/github-readme-stats )
 
 ![](https://github-readme-stats.vercel.app/api?username=icemiaomiao)
 
-
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=icemiaomiao)
 
-https://img.shields.io/badge/python-3.9-orange
+
